@@ -1,0 +1,13 @@
+# ninja log v6
+88	1011	7674611745768814	.qt/qml_imports/recorder_build.cmake	48f5f78c70f5342a
+88	1011	7674611745768814	C:/Qt/Examples/Qt-6.9.0/multimedia/video/recorder/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/recorder_build.cmake	48f5f78c70f5342a
+1013	2348	7674611756192822	recorder_autogen/timestamp	8368126d6d26178f
+1013	2348	7674611756192822	recorder_autogen/mocs_compilation.cpp	8368126d6d26178f
+1013	2348	7674611756192822	C:/Qt/Examples/Qt-6.9.0/multimedia/video/recorder/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/recorder_autogen/timestamp	8368126d6d26178f
+1013	2348	7674611756192822	C:/Qt/Examples/Qt-6.9.0/multimedia/video/recorder/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/recorder_autogen/mocs_compilation.cpp	8368126d6d26178f
+2378	2861	7674611764388130	.qt/rcc/qrc_recorder.cpp	268ce2b0ff4176c0
+2378	2861	7674611764388130	C:/Qt/Examples/Qt-6.9.0/multimedia/video/recorder/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_recorder.cpp	268ce2b0ff4176c0
+2861	3442	7674611765157677	CMakeFiles/recorder.dir/recorder_autogen/mocs_compilation.cpp.obj	84d62e5d141b9d41
+2920	3623	7674611765737349	CMakeFiles/recorder.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_recorder.cpp.obj	386a265b4bbbed31
+2891	12002	7674611765457518	CMakeFiles/recorder.dir/main.cpp.obj	a52a80aa5664402e
+12014	12973	7674611856685296	recorder.exe	cef9b0f915852c21
