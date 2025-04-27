@@ -1,0 +1,66 @@
+# Arquivos de build gerados pelo qmake
+Makefile
+Makefile.Release
+Makefile.Debug
+*.o
+*.obj
+*.moc
+*.ui.c
+*.ui.h
+*.rcc.c
+*.qrc.cpp
+ui_*.h
+
+# Diretórios de build
+build/
+Build/
+out/
+Out/
+
+# Executáveis
+*.exe
+
+# Arquivos de depuração
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.lib
+*.manifest
+*.tdb
+
+# Arquivos de cache do Qt Creator
+.qmake.cache
+.qmake.stash
+*.user
+*.pro.user
+
+# Arquivos de compilação automática do Qt Creator
+*.autosave
+
+# Arquivos de deploy (gerados por windeployqt, etc.)
+deploy/
+Deploy/
+
+# Pacotes e arquivos de instalação (se aplicável)
+*.msi
+*.dmg
+
+# Arquivos temporários do sistema operacional
+Thumbs.db
+.DS_Store
+
+# Outros arquivos temporários ou de backup que você possa ter
+*~
+\#*\#
+*.bak
+*.swp
+*.swo
+
+# Arquivos específicos do IDE (além do Qt Creator)
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user

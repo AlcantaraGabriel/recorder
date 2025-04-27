@@ -17,6 +17,8 @@ find_package(Qt6 REQUIRED COMPONENTS Core Multimedia Quick)
 
 qt_add_executable(recorder
     main.cpp
+    README.md
+    .gitignore
 )
 
 qt_add_ios_ffmpeg_libraries(recorder)
